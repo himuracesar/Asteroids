@@ -5,12 +5,12 @@ Clone of the classic game Asteroids
 
 Objective
 -----------------------------
-This project was developed in 2009 with the objective to only learn C++ and OpenGL. The OpenGL version is 2.x or maybe 3. It uses the fixed pipeline yet and it doesn't have shaders.
+This project was developed in 2009 with the objective to only learn C++ and OpenGL. The OpenGL version is 2.x or maybe 3. It uses the fixed rendering pipeline yet and it doesn't have shaders.
 
 Sadly I can't upload one assets due to copyright. So you have to replace it. 
 
 The names of the file is:
-	- menu.ogg
+- menu.ogg
 
 How to play
 -----------------------------
