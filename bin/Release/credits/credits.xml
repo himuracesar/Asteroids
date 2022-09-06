@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+    Document   : credits.xml
+    Created on : 3 de junio de 2010, 10:55 PM
+    Author     : Cesar Himura Elric
+    Description:
+        Contain the credits of the Game
+-->
+
+<CREDITS>
+    <FONT>fonts/BlackCastleMF.ttf</FONT>
+    <TOTAL_GROUPS>36</TOTAL_GROUPS>
+    <SIZE_TITLE_GROUP>30</SIZE_TITLE_GROUP>
+    <SIZE_MEMBER_GROUP>23</SIZE_MEMBER_GROUP>
+    <GROUP1>
+        <TITLE_GROUP>STAFF</TITLE_GROUP>
+        <MEMBERS>0</MEMBERS>
+        <MEMBER_GROUP1></MEMBER_GROUP1>
+    </GROUP1>
+    <GROUP2>
+        <TITLE_GROUP>Planning/Game Design 2009-2010 version</TITLE_GROUP>
+        <MEMBERS>1</MEMBERS>
+        <MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP2>
+    <GROUP3>
+        <TITLE_GROUP>Setting Design</TITLE_GROUP>
+        <MEMBERS>1</MEMBERS>
+        <MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP3>
+    <GROUP4>
+        <TITLE_GROUP>Setting Design Assistant</TITLE_GROUP>
+        <MEMBERS>1</MEMBERS>
+        <MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP4>
+    <GROUP5>
+        <TITLE_GROUP>Setting Research/Justification</TITLE_GROUP>
+        <MEMBERS>1</MEMBERS>
+        <MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP5>
+    <GROUP6>
+        <TITLE_GROUP>Art Director</TITLE_GROUP>
+        <MEMBERS>1</MEMBERS>
+        <MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP6>
+    <GROUP7>
+        <TITLE_GROUP>Image Board Artist</TITLE_GROUP>
+        <MEMBERS>1</MEMBERS>
+        <MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP7>
+    <GROUP8>
+        <TITLE_GROUP>Production/Adjusment</TITLE_GROUP>
+        <MEMBERS>1</MEMBERS>
+        <MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP8>
+    <GROUP9>
+    	<TITLE_GROUP>Modeling</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP9>
+    <GROUP10>
+    	<TITLE_GROUP>2D Art and 3D Art</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP10>
+    <GROUP11>
+    	<TITLE_GROUP>Texture Artist</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP11>
+    <GROUP12>
+    	<TITLE_GROUP>Programmers</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP12>
+    <GROUP13>
+       	<TITLE_GROUP>Player Programmer</TITLE_GROUP>
+        <MEMBERS>1</MEMBERS>
+        <MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP13>
+    <GROUP14>
+    	<TITLE_GROUP>Physics Programmer</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP14>
+    <GROUP15>
+    	<TITLE_GROUP>Special Effects Programmer</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP15>
+    <GROUP16>
+       	<TITLE_GROUP>Title Screen Program</TITLE_GROUP>
+        <MEMBERS>1</MEMBERS>
+        <MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP16> 
+    <GROUP17>
+	<TITLE_GROUP>Physics Programmer</TITLE_GROUP>
+	<MEMBERS>1</MEMBERS>
+	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP17>
+    <GROUP18>
+    	<TITLE_GROUP>Lead Programmer</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP18>
+    <GROUP19>
+    	<TITLE_GROUP>Computer Graphic Director</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP19>
+    <GROUP20>
+       	<TITLE_GROUP>Program Director</TITLE_GROUP>
+       	<MEMBERS>1</MEMBERS>
+       	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP20>    
+    <GROUP21>
+    	<TITLE_GROUP>Sounds</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Sound Snap</MEMBER_GROUP1>
+    </GROUP21>
+    <GROUP22>
+    	<TITLE_GROUP>Sound Effect Adjusment</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP22>
+    <GROUP23>
+    	<TITLE_GROUP>Storyboard</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP23>
+    <GROUP24>
+    	<TITLE_GROUP>Testing</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP24>
+    <GROUP25>
+    	<TITLE_GROUP>Illustration</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP25>
+    <GROUP26>
+    	<TITLE_GROUP>Title Logo Design</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP26>
+    <GROUP27>
+       	<TITLE_GROUP>Lighting</TITLE_GROUP>
+       	<MEMBERS>1</MEMBERS>
+       	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP27>
+    <GROUP28>
+    	<TITLE_GROUP>Producer</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP28>
+    <GROUP29>
+    	<TITLE_GROUP>Director</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP29>
+    <GROUP30>
+    	<TITLE_GROUP>{WO_TG}</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>www.RomaComputer.com/HimuraProductions/Asteroids</MEMBER_GROUP1>
+    </GROUP30>
+    <GROUP31>
+    	<TITLE_GROUP>Producer</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP31>
+    <GROUP32>
+    	<TITLE_GROUP>Executive Producer</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP32>
+    <GROUP33>
+    	<TITLE_GROUP>Directed by</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>Cesar Himura</MEMBER_GROUP1>
+    </GROUP33>
+    <GROUP34>
+    	<TITLE_GROUP>Development</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>HIMURA PRODUCTIONS</MEMBER_GROUP1>
+    </GROUP34>
+    <GROUP35>
+    	<TITLE_GROUP>Production/Copyright</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>HIMURA PRODUCTIONS CORPORATION</MEMBER_GROUP1>
+    </GROUP35>
+    <GROUP36>
+    	<TITLE_GROUP>Publisher</TITLE_GROUP>
+    	<MEMBERS>1</MEMBERS>
+    	<MEMBER_GROUP1>ROMACOMPUTER CORPORATION</MEMBER_GROUP1>
+    </GROUP36>
+</CREDITS>
