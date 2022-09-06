@@ -1,5 +1,5 @@
 # Asteroids
-Clone of the classic game Asteroids
+Clone of classic Asteroid’s game.
 
 [![AteroidsToGif-3.gif](https://s1.gifyu.com/images/AteroidsToGif-3.gif)](https://gifyu.com/image/Sw8hw)
 
