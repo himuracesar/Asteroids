@@ -1,7 +1,7 @@
 # Asteroids
 Clone of the classic game Asteroids
 
-[![Asteroids_clone.gif](https://s1.gifyu.com/images/Asteroids_clone.gif)](https://gifyu.com/image/Sw8E6)
+[![AteroidsToGif-3.gif](https://s1.gifyu.com/images/AteroidsToGif-3.gif)](https://gifyu.com/image/Sw8hw)
 
 Objective
 -----------------------------
